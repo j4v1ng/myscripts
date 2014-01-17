@@ -1,0 +1,12 @@
+[create_web_app_for_glassfish.sh]
+This script creates a Java web app ready to be used in the glassfish4 application server. It will have:
+ -Servlet 3.0
+ -JSF 2.2
+ -Primefaces framework
+
+[prepare_glassfish_deployment.sh]
+This script creates a folder in the desktop that contains:
+-Glassfish4 application server
+-Start script
+-Stop script
+-Executable application .war
